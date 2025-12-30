@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "jonathan peters",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.22.1"
 	},
 	"main": "server.js",
 	"scripts": {
